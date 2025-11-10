@@ -18,4 +18,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=mareks999&show_icons=true&locale=en&cache_seconds=1800" alt="mareks999" /></p>
 
-<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mareks999&cache_seconds=1800" alt="mareks999" /></p>
+
